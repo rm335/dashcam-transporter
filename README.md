@@ -4,7 +4,7 @@ Application running on a raspberry pi, to transfer and archive your dashcam vide
 ![Transfer illustration](/docs/img/transfer_illustration.svg "Transfer illustration")
 
 # How it works
-- The application is searching for the WIfi of your dashcam
+- The application is searching for the Wifi of your dashcam
 - If found it connects to it in searches for locked videos (those where something happened), downloads them and deletes them from the dashcam
 - The application then searches for your home network, connects and uploads the videos and deletes them from the pi
 
